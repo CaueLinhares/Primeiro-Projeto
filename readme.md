@@ -1,7 +1,7 @@
 <h1 align="center"> DevLinks </h1>
 
 <p align="center">
-Feito como primeiro projeto com base no curso fornecido pela rocketseat <br/>
+Feito como primeiro projeto com base no curso fornecido pela rocketseat, DevLinks é uma ótima forma para clientes conhecerem seu site !<br/>
 <a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito">Estude esse projeto em formato de vídeo clicando aqui.</a>
 </p>
 
@@ -39,7 +39,7 @@ O DevLinks é um agregador de links para usar como cartão de visitas online.
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/5TN6k8xpXZ0ZpR4p7kY3Tl/DevLinks-•-Projeto-Discover-(Community)?typ). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/5TN6k8xpXZ0ZpR4p7kY3Tl/DevLinks-•-Projeto-Discover-(Community)?typ>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
